@@ -1,0 +1,2 @@
+# Susce
+Sucesiones geometricaas
